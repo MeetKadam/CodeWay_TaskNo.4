@@ -1,4 +1,4 @@
-# CodeWay_TaskNo.4
+# Quiz Application
 
 CodeWay Java Development Internship Task 4 - Quiz Application With Timer
 
